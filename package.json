@@ -11,7 +11,7 @@
   ],
   "scripts": {
     "start": "tsc --watch",
-    "prepare": "tsc",
+    "prepare": "",
     "build": "pnpm run build",
     "prepublishOnly": "pnpm run build",
     "coverage": "jest --coverage",
